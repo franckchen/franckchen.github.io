@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-02T16:38:03.984Z</updated>
+  <updated>2016-05-02T16:55:24.874Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>大家好</title>
+    <title>爱疯玩，但工作靠谱，爱喷人，但待人真诚，看上去无所事事，但内心充满斗志，我就是 Frank Chen</title>
+    <link href="http://yoursite.com/2016/05/03/introduce/"/>
+    <id>http://yoursite.com/2016/05/03/introduce/</id>
+    <published>2016-05-02T16:52:00.000Z</published>
+    <updated>2016-05-02T16:55:24.874Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>论建个人网站装x的重要性~！</title>
+    <link href="http://yoursite.com/2016/05/03/privatesite/"/>
+    <id>http://yoursite.com/2016/05/03/privatesite/</id>
+    <published>2016-05-02T16:49:44.000Z</published>
+    <updated>2016-05-02T16:50:06.038Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>家穷人丑，1米49，会写代码，没女朋友</title>
     <link href="http://yoursite.com/2016/05/02/%E6%88%91%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%8C%E6%88%91%E7%9A%84%E6%96%87%E7%AB%A0/"/>
     <id>http://yoursite.com/2016/05/02/我的文章，我的文章/</id>
     <published>2016-05-02T15:20:12.000Z</published>
-    <updated>2016-05-02T16:38:03.984Z</updated>
+    <updated>2016-05-02T16:51:07.703Z</updated>
     
     <content type="html"></content>
     
